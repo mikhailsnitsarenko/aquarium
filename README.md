@@ -1,2 +1,0 @@
-# aquarium
-Task for java
